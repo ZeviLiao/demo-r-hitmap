@@ -1,2561 +1,2561 @@
-
 {
-  "a":[
-    {
-      "value": 5,
-      "weekNum": 1,
-      "day": 2,
-      "date": "2019-01-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 1,
-      "day": 3,
-      "date": "2019-01-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 1,
-      "day": 4,
-      "date": "2019-01-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 54,
-      "weekNum": 1,
-      "day": 5,
-      "date": "2019-01-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 25,
-      "weekNum": 1,
-      "day": 6,
-      "date": "2019-01-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 2,
-      "day": 0,
-      "date": "2019-01-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 89,
-      "weekNum": 2,
-      "day": 1,
-      "date": "2019-01-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 79,
-      "weekNum": 2,
-      "day": 2,
-      "date": "2019-01-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 2,
-      "day": 3,
-      "date": "2019-01-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 37,
-      "weekNum": 2,
-      "day": 4,
-      "date": "2019-01-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 34,
-      "weekNum": 2,
-      "day": 5,
-      "date": "2019-01-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 73,
-      "weekNum": 2,
-      "day": 6,
-      "date": "2019-01-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 66,
-      "weekNum": 3,
-      "day": 0,
-      "date": "2019-01-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 18,
-      "weekNum": 3,
-      "day": 1,
-      "date": "2019-01-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 36,
-      "weekNum": 3,
-      "day": 2,
-      "date": "2019-01-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 9,
-      "weekNum": 3,
-      "day": 3,
-      "date": "2019-01-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 6,
-      "weekNum": 3,
-      "day": 4,
-      "date": "2019-01-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 3,
-      "day": 5,
-      "date": "2019-01-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 34,
-      "weekNum": 3,
-      "day": 6,
-      "date": "2019-01-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 70,
-      "weekNum": 4,
-      "day": 0,
-      "date": "2019-01-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 24,
-      "weekNum": 4,
-      "day": 1,
-      "date": "2019-01-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 0,
-      "weekNum": 4,
-      "day": 2,
-      "date": "2019-01-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 91,
-      "weekNum": 4,
-      "day": 3,
-      "date": "2019-01-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 76,
-      "weekNum": 4,
-      "day": 4,
-      "date": "2019-01-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 1,
-      "weekNum": 4,
-      "day": 5,
-      "date": "2019-01-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 90,
-      "weekNum": 4,
-      "day": 6,
-      "date": "2019-01-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 0,
-      "weekNum": 5,
-      "day": 0,
-      "date": "2019-01-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 57,
-      "weekNum": 5,
-      "day": 1,
-      "date": "2019-01-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 29,
-      "weekNum": 5,
-      "day": 2,
-      "date": "2019-01-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 68,
-      "weekNum": 5,
-      "day": 3,
-      "date": "2019-01-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 85,
-      "weekNum": 5,
-      "day": 4,
-      "date": "2019-01-31",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 5,
-      "day": 5,
-      "date": "2019-02-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 5,
-      "day": 6,
-      "date": "2019-02-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 84,
-      "weekNum": 6,
-      "day": 0,
-      "date": "2019-02-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 60,
-      "weekNum": 6,
-      "day": 1,
-      "date": "2019-02-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 42,
-      "weekNum": 6,
-      "day": 2,
-      "date": "2019-02-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 59,
-      "weekNum": 6,
-      "day": 3,
-      "date": "2019-02-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 32,
-      "weekNum": 6,
-      "day": 4,
-      "date": "2019-02-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 51,
-      "weekNum": 6,
-      "day": 5,
-      "date": "2019-02-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 6,
-      "day": 6,
-      "date": "2019-02-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 80,
-      "weekNum": 7,
-      "day": 0,
-      "date": "2019-02-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 79,
-      "weekNum": 7,
-      "day": 1,
-      "date": "2019-02-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 17,
-      "weekNum": 7,
-      "day": 2,
-      "date": "2019-02-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 55,
-      "weekNum": 7,
-      "day": 3,
-      "date": "2019-02-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 7,
-      "day": 4,
-      "date": "2019-02-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 84,
-      "weekNum": 7,
-      "day": 5,
-      "date": "2019-02-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 49,
-      "weekNum": 7,
-      "day": 6,
-      "date": "2019-02-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 73,
-      "weekNum": 8,
-      "day": 0,
-      "date": "2019-02-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 28,
-      "weekNum": 8,
-      "day": 1,
-      "date": "2019-02-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 11,
-      "weekNum": 8,
-      "day": 2,
-      "date": "2019-02-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 50,
-      "weekNum": 8,
-      "day": 3,
-      "date": "2019-02-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 25,
-      "weekNum": 8,
-      "day": 4,
-      "date": "2019-02-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 85,
-      "weekNum": 8,
-      "day": 5,
-      "date": "2019-02-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 8,
-      "day": 6,
-      "date": "2019-02-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 57,
-      "weekNum": 9,
-      "day": 0,
-      "date": "2019-02-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 9,
-      "day": 1,
-      "date": "2019-02-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 41,
-      "weekNum": 9,
-      "day": 2,
-      "date": "2019-02-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 10,
-      "weekNum": 9,
-      "day": 3,
-      "date": "2019-02-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 9,
-      "day": 4,
-      "date": "2019-02-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 53,
-      "weekNum": 9,
-      "day": 5,
-      "date": "2019-03-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 52,
-      "weekNum": 9,
-      "day": 6,
-      "date": "2019-03-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 57,
-      "weekNum": 10,
-      "day": 0,
-      "date": "2019-03-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 90,
-      "weekNum": 10,
-      "day": 1,
-      "date": "2019-03-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 94,
-      "weekNum": 10,
-      "day": 2,
-      "date": "2019-03-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 14,
-      "weekNum": 10,
-      "day": 3,
-      "date": "2019-03-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 35,
-      "weekNum": 10,
-      "day": 4,
-      "date": "2019-03-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 84,
-      "weekNum": 10,
-      "day": 5,
-      "date": "2019-03-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 10,
-      "day": 6,
-      "date": "2019-03-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 35,
-      "weekNum": 11,
-      "day": 0,
-      "date": "2019-03-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 18,
-      "weekNum": 11,
-      "day": 1,
-      "date": "2019-03-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 93,
-      "weekNum": 11,
-      "day": 2,
-      "date": "2019-03-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 11,
-      "day": 3,
-      "date": "2019-03-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 87,
-      "weekNum": 11,
-      "day": 4,
-      "date": "2019-03-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 13,
-      "weekNum": 11,
-      "day": 5,
-      "date": "2019-03-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 11,
-      "day": 6,
-      "date": "2019-03-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 53,
-      "weekNum": 12,
-      "day": 0,
-      "date": "2019-03-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 81,
-      "weekNum": 12,
-      "day": 1,
-      "date": "2019-03-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 12,
-      "day": 2,
-      "date": "2019-03-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 48,
-      "weekNum": 12,
-      "day": 3,
-      "date": "2019-03-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 12,
-      "day": 4,
-      "date": "2019-03-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 16,
-      "weekNum": 12,
-      "day": 5,
-      "date": "2019-03-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 12,
-      "day": 6,
-      "date": "2019-03-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 51,
-      "weekNum": 13,
-      "day": 0,
-      "date": "2019-03-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 84,
-      "weekNum": 13,
-      "day": 1,
-      "date": "2019-03-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 37,
-      "weekNum": 13,
-      "day": 2,
-      "date": "2019-03-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 23,
-      "weekNum": 13,
-      "day": 3,
-      "date": "2019-03-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 94,
-      "weekNum": 13,
-      "day": 4,
-      "date": "2019-03-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 11,
-      "weekNum": 13,
-      "day": 5,
-      "date": "2019-03-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 86,
-      "weekNum": 13,
-      "day": 6,
-      "date": "2019-03-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 14,
-      "weekNum": 14,
-      "day": 0,
-      "date": "2019-03-31",
-      "weekYear": 2019
-    },
-    {
-      "value": 3,
-      "weekNum": 14,
-      "day": 1,
-      "date": "2019-04-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 76,
-      "weekNum": 14,
-      "day": 2,
-      "date": "2019-04-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 14,
-      "day": 3,
-      "date": "2019-04-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 86,
-      "weekNum": 14,
-      "day": 4,
-      "date": "2019-04-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 95,
-      "weekNum": 14,
-      "day": 5,
-      "date": "2019-04-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 14,
-      "weekNum": 14,
-      "day": 6,
-      "date": "2019-04-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 28,
-      "weekNum": 15,
-      "day": 0,
-      "date": "2019-04-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 89,
-      "weekNum": 15,
-      "day": 1,
-      "date": "2019-04-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 26,
-      "weekNum": 15,
-      "day": 2,
-      "date": "2019-04-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 93,
-      "weekNum": 15,
-      "day": 3,
-      "date": "2019-04-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 41,
-      "weekNum": 15,
-      "day": 4,
-      "date": "2019-04-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 26,
-      "weekNum": 15,
-      "day": 5,
-      "date": "2019-04-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 20,
-      "weekNum": 15,
-      "day": 6,
-      "date": "2019-04-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 94,
-      "weekNum": 16,
-      "day": 0,
-      "date": "2019-04-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 30,
-      "weekNum": 16,
-      "day": 1,
-      "date": "2019-04-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 89,
-      "weekNum": 16,
-      "day": 2,
-      "date": "2019-04-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 14,
-      "weekNum": 16,
-      "day": 3,
-      "date": "2019-04-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 16,
-      "day": 4,
-      "date": "2019-04-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 16,
-      "day": 5,
-      "date": "2019-04-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 65,
-      "weekNum": 16,
-      "day": 6,
-      "date": "2019-04-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 1,
-      "weekNum": 17,
-      "day": 0,
-      "date": "2019-04-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 58,
-      "weekNum": 17,
-      "day": 1,
-      "date": "2019-04-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 85,
-      "weekNum": 17,
-      "day": 2,
-      "date": "2019-04-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 69,
-      "weekNum": 17,
-      "day": 3,
-      "date": "2019-04-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 64,
-      "weekNum": 17,
-      "day": 4,
-      "date": "2019-04-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 17,
-      "day": 5,
-      "date": "2019-04-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 3,
-      "weekNum": 17,
-      "day": 6,
-      "date": "2019-04-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 18,
-      "day": 0,
-      "date": "2019-04-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 31,
-      "weekNum": 18,
-      "day": 1,
-      "date": "2019-04-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 29,
-      "weekNum": 18,
-      "day": 2,
-      "date": "2019-04-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 57,
-      "weekNum": 18,
-      "day": 3,
-      "date": "2019-05-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 26,
-      "weekNum": 18,
-      "day": 4,
-      "date": "2019-05-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 88,
-      "weekNum": 18,
-      "day": 5,
-      "date": "2019-05-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 29,
-      "weekNum": 18,
-      "day": 6,
-      "date": "2019-05-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 73,
-      "weekNum": 19,
-      "day": 0,
-      "date": "2019-05-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 69,
-      "weekNum": 19,
-      "day": 1,
-      "date": "2019-05-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 19,
-      "day": 2,
-      "date": "2019-05-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 76,
-      "weekNum": 19,
-      "day": 3,
-      "date": "2019-05-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 19,
-      "day": 4,
-      "date": "2019-05-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 17,
-      "weekNum": 19,
-      "day": 5,
-      "date": "2019-05-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 95,
-      "weekNum": 19,
-      "day": 6,
-      "date": "2019-05-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 34,
-      "weekNum": 20,
-      "day": 0,
-      "date": "2019-05-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 20,
-      "day": 1,
-      "date": "2019-05-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 74,
-      "weekNum": 20,
-      "day": 2,
-      "date": "2019-05-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 40,
-      "weekNum": 20,
-      "day": 3,
-      "date": "2019-05-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 84,
-      "weekNum": 20,
-      "day": 4,
-      "date": "2019-05-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 42,
-      "weekNum": 20,
-      "day": 5,
-      "date": "2019-05-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 20,
-      "day": 6,
-      "date": "2019-05-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 58,
-      "weekNum": 21,
-      "day": 0,
-      "date": "2019-05-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 54,
-      "weekNum": 21,
-      "day": 1,
-      "date": "2019-05-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 95,
-      "weekNum": 21,
-      "day": 2,
-      "date": "2019-05-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 21,
-      "day": 3,
-      "date": "2019-05-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 25,
-      "weekNum": 21,
-      "day": 4,
-      "date": "2019-05-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 91,
-      "weekNum": 21,
-      "day": 5,
-      "date": "2019-05-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 21,
-      "day": 6,
-      "date": "2019-05-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 47,
-      "weekNum": 22,
-      "day": 0,
-      "date": "2019-05-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 31,
-      "weekNum": 22,
-      "day": 1,
-      "date": "2019-05-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 55,
-      "weekNum": 22,
-      "day": 2,
-      "date": "2019-05-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 22,
-      "day": 3,
-      "date": "2019-05-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 5,
-      "weekNum": 22,
-      "day": 4,
-      "date": "2019-05-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 54,
-      "weekNum": 22,
-      "day": 5,
-      "date": "2019-05-31",
-      "weekYear": 2019
-    },
-    {
-      "value": 91,
-      "weekNum": 22,
-      "day": 6,
-      "date": "2019-06-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 98,
-      "weekNum": 23,
-      "day": 0,
-      "date": "2019-06-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 90,
-      "weekNum": 23,
-      "day": 1,
-      "date": "2019-06-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 41,
-      "weekNum": 23,
-      "day": 2,
-      "date": "2019-06-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 52,
-      "weekNum": 23,
-      "day": 3,
-      "date": "2019-06-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 33,
-      "weekNum": 23,
-      "day": 4,
-      "date": "2019-06-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 39,
-      "weekNum": 23,
-      "day": 5,
-      "date": "2019-06-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 48,
-      "weekNum": 23,
-      "day": 6,
-      "date": "2019-06-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 40,
-      "weekNum": 24,
-      "day": 0,
-      "date": "2019-06-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 24,
-      "day": 1,
-      "date": "2019-06-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 87,
-      "weekNum": 24,
-      "day": 2,
-      "date": "2019-06-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 29,
-      "weekNum": 24,
-      "day": 3,
-      "date": "2019-06-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 97,
-      "weekNum": 24,
-      "day": 4,
-      "date": "2019-06-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 86,
-      "weekNum": 24,
-      "day": 5,
-      "date": "2019-06-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 29,
-      "weekNum": 24,
-      "day": 6,
-      "date": "2019-06-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 76,
-      "weekNum": 25,
-      "day": 0,
-      "date": "2019-06-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 69,
-      "weekNum": 25,
-      "day": 1,
-      "date": "2019-06-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 71,
-      "weekNum": 25,
-      "day": 2,
-      "date": "2019-06-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 68,
-      "weekNum": 25,
-      "day": 3,
-      "date": "2019-06-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 56,
-      "weekNum": 25,
-      "day": 4,
-      "date": "2019-06-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 43,
-      "weekNum": 25,
-      "day": 5,
-      "date": "2019-06-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 25,
-      "day": 6,
-      "date": "2019-06-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 3,
-      "weekNum": 26,
-      "day": 0,
-      "date": "2019-06-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 44,
-      "weekNum": 26,
-      "day": 1,
-      "date": "2019-06-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 80,
-      "weekNum": 26,
-      "day": 2,
-      "date": "2019-06-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 1,
-      "weekNum": 26,
-      "day": 3,
-      "date": "2019-06-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 26,
-      "day": 4,
-      "date": "2019-06-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 11,
-      "weekNum": 26,
-      "day": 5,
-      "date": "2019-06-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 26,
-      "day": 6,
-      "date": "2019-06-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 27,
-      "day": 0,
-      "date": "2019-06-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 6,
-      "weekNum": 27,
-      "day": 1,
-      "date": "2019-07-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 46,
-      "weekNum": 27,
-      "day": 2,
-      "date": "2019-07-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 60,
-      "weekNum": 27,
-      "day": 3,
-      "date": "2019-07-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 47,
-      "weekNum": 27,
-      "day": 4,
-      "date": "2019-07-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 27,
-      "day": 5,
-      "date": "2019-07-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 92,
-      "weekNum": 27,
-      "day": 6,
-      "date": "2019-07-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 44,
-      "weekNum": 28,
-      "day": 0,
-      "date": "2019-07-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 30,
-      "weekNum": 28,
-      "day": 1,
-      "date": "2019-07-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 87,
-      "weekNum": 28,
-      "day": 2,
-      "date": "2019-07-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 58,
-      "weekNum": 28,
-      "day": 3,
-      "date": "2019-07-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 82,
-      "weekNum": 28,
-      "day": 4,
-      "date": "2019-07-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 53,
-      "weekNum": 28,
-      "day": 5,
-      "date": "2019-07-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 34,
-      "weekNum": 28,
-      "day": 6,
-      "date": "2019-07-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 29,
-      "day": 0,
-      "date": "2019-07-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 26,
-      "weekNum": 29,
-      "day": 1,
-      "date": "2019-07-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 47,
-      "weekNum": 29,
-      "day": 2,
-      "date": "2019-07-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 30,
-      "weekNum": 29,
-      "day": 3,
-      "date": "2019-07-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 29,
-      "day": 4,
-      "date": "2019-07-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 23,
-      "weekNum": 29,
-      "day": 5,
-      "date": "2019-07-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 10,
-      "weekNum": 29,
-      "day": 6,
-      "date": "2019-07-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 30,
-      "day": 0,
-      "date": "2019-07-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 38,
-      "weekNum": 30,
-      "day": 1,
-      "date": "2019-07-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 41,
-      "weekNum": 30,
-      "day": 2,
-      "date": "2019-07-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 50,
-      "weekNum": 30,
-      "day": 3,
-      "date": "2019-07-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 69,
-      "weekNum": 30,
-      "day": 4,
-      "date": "2019-07-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 99,
-      "weekNum": 30,
-      "day": 5,
-      "date": "2019-07-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 30,
-      "day": 6,
-      "date": "2019-07-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 41,
-      "weekNum": 31,
-      "day": 0,
-      "date": "2019-07-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 3,
-      "weekNum": 31,
-      "day": 1,
-      "date": "2019-07-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 76,
-      "weekNum": 31,
-      "day": 2,
-      "date": "2019-07-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 31,
-      "day": 3,
-      "date": "2019-07-31",
-      "weekYear": 2019
-    },
-    {
-      "value": 25,
-      "weekNum": 31,
-      "day": 4,
-      "date": "2019-08-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 61,
-      "weekNum": 31,
-      "day": 5,
-      "date": "2019-08-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 78,
-      "weekNum": 31,
-      "day": 6,
-      "date": "2019-08-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 62,
-      "weekNum": 32,
-      "day": 0,
-      "date": "2019-08-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 27,
-      "weekNum": 32,
-      "day": 1,
-      "date": "2019-08-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 40,
-      "weekNum": 32,
-      "day": 2,
-      "date": "2019-08-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 80,
-      "weekNum": 32,
-      "day": 3,
-      "date": "2019-08-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 20,
-      "weekNum": 32,
-      "day": 4,
-      "date": "2019-08-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 74,
-      "weekNum": 32,
-      "day": 5,
-      "date": "2019-08-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 32,
-      "day": 6,
-      "date": "2019-08-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 55,
-      "weekNum": 33,
-      "day": 0,
-      "date": "2019-08-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 33,
-      "day": 1,
-      "date": "2019-08-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 75,
-      "weekNum": 33,
-      "day": 2,
-      "date": "2019-08-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 33,
-      "day": 3,
-      "date": "2019-08-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 89,
-      "weekNum": 33,
-      "day": 4,
-      "date": "2019-08-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 58,
-      "weekNum": 33,
-      "day": 5,
-      "date": "2019-08-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 66,
-      "weekNum": 33,
-      "day": 6,
-      "date": "2019-08-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 98,
-      "weekNum": 34,
-      "day": 0,
-      "date": "2019-08-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 11,
-      "weekNum": 34,
-      "day": 1,
-      "date": "2019-08-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 79,
-      "weekNum": 34,
-      "day": 2,
-      "date": "2019-08-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 71,
-      "weekNum": 34,
-      "day": 3,
-      "date": "2019-08-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 34,
-      "day": 4,
-      "date": "2019-08-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 75,
-      "weekNum": 34,
-      "day": 5,
-      "date": "2019-08-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 89,
-      "weekNum": 34,
-      "day": 6,
-      "date": "2019-08-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 46,
-      "weekNum": 35,
-      "day": 0,
-      "date": "2019-08-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 31,
-      "weekNum": 35,
-      "day": 1,
-      "date": "2019-08-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 3,
-      "weekNum": 35,
-      "day": 2,
-      "date": "2019-08-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 39,
-      "weekNum": 35,
-      "day": 3,
-      "date": "2019-08-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 51,
-      "weekNum": 35,
-      "day": 4,
-      "date": "2019-08-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 60,
-      "weekNum": 35,
-      "day": 5,
-      "date": "2019-08-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 71,
-      "weekNum": 35,
-      "day": 6,
-      "date": "2019-08-31",
-      "weekYear": 2019
-    },
-    {
-      "value": 27,
-      "weekNum": 36,
-      "day": 0,
-      "date": "2019-09-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 78,
-      "weekNum": 36,
-      "day": 1,
-      "date": "2019-09-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 36,
-      "day": 2,
-      "date": "2019-09-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 1,
-      "weekNum": 36,
-      "day": 3,
-      "date": "2019-09-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 55,
-      "weekNum": 36,
-      "day": 4,
-      "date": "2019-09-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 36,
-      "day": 5,
-      "date": "2019-09-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 94,
-      "weekNum": 36,
-      "day": 6,
-      "date": "2019-09-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 28,
-      "weekNum": 37,
-      "day": 0,
-      "date": "2019-09-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 15,
-      "weekNum": 37,
-      "day": 1,
-      "date": "2019-09-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 36,
-      "weekNum": 37,
-      "day": 2,
-      "date": "2019-09-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 37,
-      "day": 3,
-      "date": "2019-09-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 5,
-      "weekNum": 37,
-      "day": 4,
-      "date": "2019-09-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 38,
-      "weekNum": 37,
-      "day": 5,
-      "date": "2019-09-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 37,
-      "day": 6,
-      "date": "2019-09-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 64,
-      "weekNum": 38,
-      "day": 0,
-      "date": "2019-09-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 38,
-      "day": 1,
-      "date": "2019-09-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 37,
-      "weekNum": 38,
-      "day": 2,
-      "date": "2019-09-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 87,
-      "weekNum": 38,
-      "day": 3,
-      "date": "2019-09-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 57,
-      "weekNum": 38,
-      "day": 4,
-      "date": "2019-09-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 82,
-      "weekNum": 38,
-      "day": 5,
-      "date": "2019-09-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 49,
-      "weekNum": 38,
-      "day": 6,
-      "date": "2019-09-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 44,
-      "weekNum": 39,
-      "day": 0,
-      "date": "2019-09-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 33,
-      "weekNum": 39,
-      "day": 1,
-      "date": "2019-09-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 39,
-      "day": 2,
-      "date": "2019-09-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 39,
-      "day": 3,
-      "date": "2019-09-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 39,
-      "day": 4,
-      "date": "2019-09-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 54,
-      "weekNum": 39,
-      "day": 5,
-      "date": "2019-09-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 39,
-      "day": 6,
-      "date": "2019-09-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 97,
-      "weekNum": 40,
-      "day": 0,
-      "date": "2019-09-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 53,
-      "weekNum": 40,
-      "day": 1,
-      "date": "2019-09-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 23,
-      "weekNum": 40,
-      "day": 2,
-      "date": "2019-10-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 0,
-      "weekNum": 40,
-      "day": 3,
-      "date": "2019-10-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 21,
-      "weekNum": 40,
-      "day": 4,
-      "date": "2019-10-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 28,
-      "weekNum": 40,
-      "day": 5,
-      "date": "2019-10-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 9,
-      "weekNum": 40,
-      "day": 6,
-      "date": "2019-10-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 11,
-      "weekNum": 41,
-      "day": 0,
-      "date": "2019-10-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 92,
-      "weekNum": 41,
-      "day": 1,
-      "date": "2019-10-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 41,
-      "day": 2,
-      "date": "2019-10-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 19,
-      "weekNum": 41,
-      "day": 3,
-      "date": "2019-10-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 18,
-      "weekNum": 41,
-      "day": 4,
-      "date": "2019-10-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 36,
-      "weekNum": 41,
-      "day": 5,
-      "date": "2019-10-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 55,
-      "weekNum": 41,
-      "day": 6,
-      "date": "2019-10-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 43,
-      "weekNum": 42,
-      "day": 0,
-      "date": "2019-10-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 66,
-      "weekNum": 42,
-      "day": 1,
-      "date": "2019-10-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 42,
-      "day": 2,
-      "date": "2019-10-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 72,
-      "weekNum": 42,
-      "day": 3,
-      "date": "2019-10-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 34,
-      "weekNum": 42,
-      "day": 4,
-      "date": "2019-10-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 48,
-      "weekNum": 42,
-      "day": 5,
-      "date": "2019-10-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 76,
-      "weekNum": 42,
-      "day": 6,
-      "date": "2019-10-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 96,
-      "weekNum": 43,
-      "day": 0,
-      "date": "2019-10-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 89,
-      "weekNum": 43,
-      "day": 1,
-      "date": "2019-10-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 30,
-      "weekNum": 43,
-      "day": 2,
-      "date": "2019-10-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 17,
-      "weekNum": 43,
-      "day": 3,
-      "date": "2019-10-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 88,
-      "weekNum": 43,
-      "day": 4,
-      "date": "2019-10-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 7,
-      "weekNum": 43,
-      "day": 5,
-      "date": "2019-10-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 92,
-      "weekNum": 43,
-      "day": 6,
-      "date": "2019-10-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 4,
-      "weekNum": 44,
-      "day": 0,
-      "date": "2019-10-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 52,
-      "weekNum": 44,
-      "day": 1,
-      "date": "2019-10-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 9,
-      "weekNum": 44,
-      "day": 2,
-      "date": "2019-10-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 32,
-      "weekNum": 44,
-      "day": 3,
-      "date": "2019-10-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 49,
-      "weekNum": 44,
-      "day": 4,
-      "date": "2019-10-31",
-      "weekYear": 2019
-    },
-    {
-      "value": 90,
-      "weekNum": 44,
-      "day": 5,
-      "date": "2019-11-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 8,
-      "weekNum": 44,
-      "day": 6,
-      "date": "2019-11-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 63,
-      "weekNum": 45,
-      "day": 0,
-      "date": "2019-11-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 6,
-      "weekNum": 45,
-      "day": 1,
-      "date": "2019-11-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 36,
-      "weekNum": 45,
-      "day": 2,
-      "date": "2019-11-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 45,
-      "day": 3,
-      "date": "2019-11-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 11,
-      "weekNum": 45,
-      "day": 4,
-      "date": "2019-11-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 56,
-      "weekNum": 45,
-      "day": 5,
-      "date": "2019-11-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 28,
-      "weekNum": 45,
-      "day": 6,
-      "date": "2019-11-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 2,
-      "weekNum": 46,
-      "day": 0,
-      "date": "2019-11-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 42,
-      "weekNum": 46,
-      "day": 1,
-      "date": "2019-11-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 29,
-      "weekNum": 46,
-      "day": 2,
-      "date": "2019-11-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 54,
-      "weekNum": 46,
-      "day": 3,
-      "date": "2019-11-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 80,
-      "weekNum": 46,
-      "day": 4,
-      "date": "2019-11-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 59,
-      "weekNum": 46,
-      "day": 5,
-      "date": "2019-11-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 94,
-      "weekNum": 46,
-      "day": 6,
-      "date": "2019-11-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 59,
-      "weekNum": 47,
-      "day": 0,
-      "date": "2019-11-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 47,
-      "day": 1,
-      "date": "2019-11-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 71,
-      "weekNum": 47,
-      "day": 2,
-      "date": "2019-11-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 52,
-      "weekNum": 47,
-      "day": 3,
-      "date": "2019-11-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 47,
-      "day": 4,
-      "date": "2019-11-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 32,
-      "weekNum": 47,
-      "day": 5,
-      "date": "2019-11-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 60,
-      "weekNum": 47,
-      "day": 6,
-      "date": "2019-11-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 49,
-      "weekNum": 48,
-      "day": 0,
-      "date": "2019-11-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 95,
-      "weekNum": 48,
-      "day": 1,
-      "date": "2019-11-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 52,
-      "weekNum": 48,
-      "day": 2,
-      "date": "2019-11-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 15,
-      "weekNum": 48,
-      "day": 3,
-      "date": "2019-11-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 83,
-      "weekNum": 48,
-      "day": 4,
-      "date": "2019-11-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 95,
-      "weekNum": 48,
-      "day": 5,
-      "date": "2019-11-29",
-      "weekYear": 2019
-    },
-    {
-      "value": 57,
-      "weekNum": 48,
-      "day": 6,
-      "date": "2019-11-30",
-      "weekYear": 2019
-    },
-    {
-      "value": 56,
-      "weekNum": 49,
-      "day": 0,
-      "date": "2019-12-01",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 49,
-      "day": 1,
-      "date": "2019-12-02",
-      "weekYear": 2019
-    },
-    {
-      "value": 36,
-      "weekNum": 49,
-      "day": 2,
-      "date": "2019-12-03",
-      "weekYear": 2019
-    },
-    {
-      "value": 91,
-      "weekNum": 49,
-      "day": 3,
-      "date": "2019-12-04",
-      "weekYear": 2019
-    },
-    {
-      "value": 91,
-      "weekNum": 49,
-      "day": 4,
-      "date": "2019-12-05",
-      "weekYear": 2019
-    },
-    {
-      "value": 22,
-      "weekNum": 49,
-      "day": 5,
-      "date": "2019-12-06",
-      "weekYear": 2019
-    },
-    {
-      "value": 58,
-      "weekNum": 49,
-      "day": 6,
-      "date": "2019-12-07",
-      "weekYear": 2019
-    },
-    {
-      "value": 55,
-      "weekNum": 50,
-      "day": 0,
-      "date": "2019-12-08",
-      "weekYear": 2019
-    },
-    {
-      "value": 23,
-      "weekNum": 50,
-      "day": 1,
-      "date": "2019-12-09",
-      "weekYear": 2019
-    },
-    {
-      "value": 45,
-      "weekNum": 50,
-      "day": 2,
-      "date": "2019-12-10",
-      "weekYear": 2019
-    },
-    {
-      "value": 100,
-      "weekNum": 50,
-      "day": 3,
-      "date": "2019-12-11",
-      "weekYear": 2019
-    },
-    {
-      "value": 71,
-      "weekNum": 50,
-      "day": 4,
-      "date": "2019-12-12",
-      "weekYear": 2019
-    },
-    {
-      "value": 7,
-      "weekNum": 50,
-      "day": 5,
-      "date": "2019-12-13",
-      "weekYear": 2019
-    },
-    {
-      "value": 48,
-      "weekNum": 50,
-      "day": 6,
-      "date": "2019-12-14",
-      "weekYear": 2019
-    },
-    {
-      "value": 86,
-      "weekNum": 51,
-      "day": 0,
-      "date": "2019-12-15",
-      "weekYear": 2019
-    },
-    {
-      "value": 35,
-      "weekNum": 51,
-      "day": 1,
-      "date": "2019-12-16",
-      "weekYear": 2019
-    },
-    {
-      "value": 35,
-      "weekNum": 51,
-      "day": 2,
-      "date": "2019-12-17",
-      "weekYear": 2019
-    },
-    {
-      "value": 12,
-      "weekNum": 51,
-      "day": 3,
-      "date": "2019-12-18",
-      "weekYear": 2019
-    },
-    {
-      "value": 35,
-      "weekNum": 51,
-      "day": 4,
-      "date": "2019-12-19",
-      "weekYear": 2019
-    },
-    {
-      "value": 97,
-      "weekNum": 51,
-      "day": 5,
-      "date": "2019-12-20",
-      "weekYear": 2019
-    },
-    {
-      "value": 95,
-      "weekNum": 51,
-      "day": 6,
-      "date": "2019-12-21",
-      "weekYear": 2019
-    },
-    {
-      "value": 84,
-      "weekNum": 52,
-      "day": 0,
-      "date": "2019-12-22",
-      "weekYear": 2019
-    },
-    {
-      "value": 92,
-      "weekNum": 52,
-      "day": 1,
-      "date": "2019-12-23",
-      "weekYear": 2019
-    },
-    {
-      "value": 32,
-      "weekNum": 52,
-      "day": 2,
-      "date": "2019-12-24",
-      "weekYear": 2019
-    },
-    {
-      "value": 71,
-      "weekNum": 52,
-      "day": 3,
-      "date": "2019-12-25",
-      "weekYear": 2019
-    },
-    {
-      "value": 77,
-      "weekNum": 52,
-      "day": 4,
-      "date": "2019-12-26",
-      "weekYear": 2019
-    },
-    {
-      "value": 15,
-      "weekNum": 52,
-      "day": 5,
-      "date": "2019-12-27",
-      "weekYear": 2019
-    },
-    {
-      "value": 27,
-      "weekNum": 52,
-      "day": 6,
-      "date": "2019-12-28",
-      "weekYear": 2019
-    },
-    {
-      "value": 42,
-      "weekNum": 53,
-      "day": 0,
-      "date": "2019-12-29",
-      "weekYear": 2020
-    },
-    {
-      "value": 52,
-      "weekNum": 53,
-      "day": 1,
-      "date": "2019-12-30",
-      "weekYear": 2020
-    },
-    {
-      "value": 91,
-      "weekNum": 53,
-      "day": 2,
-      "date": "2019-12-31",
-      "weekYear": 2020
-    }
-  ]
+    "years":["2019"],
+    "contributions":[
+      {
+        "value": 5,
+        "weekNum": 1,
+        "day": 2,
+        "date": "2019-01-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 1,
+        "day": 3,
+        "date": "2019-01-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 1,
+        "day": 4,
+        "date": "2019-01-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 54,
+        "weekNum": 1,
+        "day": 5,
+        "date": "2019-01-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 25,
+        "weekNum": 1,
+        "day": 6,
+        "date": "2019-01-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 2,
+        "day": 0,
+        "date": "2019-01-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 89,
+        "weekNum": 2,
+        "day": 1,
+        "date": "2019-01-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 79,
+        "weekNum": 2,
+        "day": 2,
+        "date": "2019-01-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 2,
+        "day": 3,
+        "date": "2019-01-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 37,
+        "weekNum": 2,
+        "day": 4,
+        "date": "2019-01-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 34,
+        "weekNum": 2,
+        "day": 5,
+        "date": "2019-01-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 73,
+        "weekNum": 2,
+        "day": 6,
+        "date": "2019-01-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 66,
+        "weekNum": 3,
+        "day": 0,
+        "date": "2019-01-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 18,
+        "weekNum": 3,
+        "day": 1,
+        "date": "2019-01-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 36,
+        "weekNum": 3,
+        "day": 2,
+        "date": "2019-01-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 9,
+        "weekNum": 3,
+        "day": 3,
+        "date": "2019-01-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 6,
+        "weekNum": 3,
+        "day": 4,
+        "date": "2019-01-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 3,
+        "day": 5,
+        "date": "2019-01-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 34,
+        "weekNum": 3,
+        "day": 6,
+        "date": "2019-01-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 70,
+        "weekNum": 4,
+        "day": 0,
+        "date": "2019-01-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 24,
+        "weekNum": 4,
+        "day": 1,
+        "date": "2019-01-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 0,
+        "weekNum": 4,
+        "day": 2,
+        "date": "2019-01-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 91,
+        "weekNum": 4,
+        "day": 3,
+        "date": "2019-01-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 76,
+        "weekNum": 4,
+        "day": 4,
+        "date": "2019-01-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 1,
+        "weekNum": 4,
+        "day": 5,
+        "date": "2019-01-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 90,
+        "weekNum": 4,
+        "day": 6,
+        "date": "2019-01-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 0,
+        "weekNum": 5,
+        "day": 0,
+        "date": "2019-01-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 57,
+        "weekNum": 5,
+        "day": 1,
+        "date": "2019-01-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 29,
+        "weekNum": 5,
+        "day": 2,
+        "date": "2019-01-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 68,
+        "weekNum": 5,
+        "day": 3,
+        "date": "2019-01-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 85,
+        "weekNum": 5,
+        "day": 4,
+        "date": "2019-01-31",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 5,
+        "day": 5,
+        "date": "2019-02-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 5,
+        "day": 6,
+        "date": "2019-02-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 84,
+        "weekNum": 6,
+        "day": 0,
+        "date": "2019-02-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 60,
+        "weekNum": 6,
+        "day": 1,
+        "date": "2019-02-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 42,
+        "weekNum": 6,
+        "day": 2,
+        "date": "2019-02-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 59,
+        "weekNum": 6,
+        "day": 3,
+        "date": "2019-02-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 32,
+        "weekNum": 6,
+        "day": 4,
+        "date": "2019-02-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 51,
+        "weekNum": 6,
+        "day": 5,
+        "date": "2019-02-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 6,
+        "day": 6,
+        "date": "2019-02-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 80,
+        "weekNum": 7,
+        "day": 0,
+        "date": "2019-02-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 79,
+        "weekNum": 7,
+        "day": 1,
+        "date": "2019-02-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 17,
+        "weekNum": 7,
+        "day": 2,
+        "date": "2019-02-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 55,
+        "weekNum": 7,
+        "day": 3,
+        "date": "2019-02-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 7,
+        "day": 4,
+        "date": "2019-02-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 84,
+        "weekNum": 7,
+        "day": 5,
+        "date": "2019-02-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 49,
+        "weekNum": 7,
+        "day": 6,
+        "date": "2019-02-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 73,
+        "weekNum": 8,
+        "day": 0,
+        "date": "2019-02-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 28,
+        "weekNum": 8,
+        "day": 1,
+        "date": "2019-02-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 11,
+        "weekNum": 8,
+        "day": 2,
+        "date": "2019-02-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 50,
+        "weekNum": 8,
+        "day": 3,
+        "date": "2019-02-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 25,
+        "weekNum": 8,
+        "day": 4,
+        "date": "2019-02-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 85,
+        "weekNum": 8,
+        "day": 5,
+        "date": "2019-02-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 8,
+        "day": 6,
+        "date": "2019-02-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 57,
+        "weekNum": 9,
+        "day": 0,
+        "date": "2019-02-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 9,
+        "day": 1,
+        "date": "2019-02-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 41,
+        "weekNum": 9,
+        "day": 2,
+        "date": "2019-02-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 10,
+        "weekNum": 9,
+        "day": 3,
+        "date": "2019-02-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 9,
+        "day": 4,
+        "date": "2019-02-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 53,
+        "weekNum": 9,
+        "day": 5,
+        "date": "2019-03-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 52,
+        "weekNum": 9,
+        "day": 6,
+        "date": "2019-03-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 57,
+        "weekNum": 10,
+        "day": 0,
+        "date": "2019-03-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 90,
+        "weekNum": 10,
+        "day": 1,
+        "date": "2019-03-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 94,
+        "weekNum": 10,
+        "day": 2,
+        "date": "2019-03-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 14,
+        "weekNum": 10,
+        "day": 3,
+        "date": "2019-03-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 35,
+        "weekNum": 10,
+        "day": 4,
+        "date": "2019-03-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 84,
+        "weekNum": 10,
+        "day": 5,
+        "date": "2019-03-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 10,
+        "day": 6,
+        "date": "2019-03-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 35,
+        "weekNum": 11,
+        "day": 0,
+        "date": "2019-03-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 18,
+        "weekNum": 11,
+        "day": 1,
+        "date": "2019-03-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 93,
+        "weekNum": 11,
+        "day": 2,
+        "date": "2019-03-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 11,
+        "day": 3,
+        "date": "2019-03-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 87,
+        "weekNum": 11,
+        "day": 4,
+        "date": "2019-03-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 13,
+        "weekNum": 11,
+        "day": 5,
+        "date": "2019-03-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 11,
+        "day": 6,
+        "date": "2019-03-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 53,
+        "weekNum": 12,
+        "day": 0,
+        "date": "2019-03-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 81,
+        "weekNum": 12,
+        "day": 1,
+        "date": "2019-03-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 12,
+        "day": 2,
+        "date": "2019-03-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 48,
+        "weekNum": 12,
+        "day": 3,
+        "date": "2019-03-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 12,
+        "day": 4,
+        "date": "2019-03-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 16,
+        "weekNum": 12,
+        "day": 5,
+        "date": "2019-03-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 12,
+        "day": 6,
+        "date": "2019-03-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 51,
+        "weekNum": 13,
+        "day": 0,
+        "date": "2019-03-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 84,
+        "weekNum": 13,
+        "day": 1,
+        "date": "2019-03-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 37,
+        "weekNum": 13,
+        "day": 2,
+        "date": "2019-03-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 23,
+        "weekNum": 13,
+        "day": 3,
+        "date": "2019-03-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 94,
+        "weekNum": 13,
+        "day": 4,
+        "date": "2019-03-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 11,
+        "weekNum": 13,
+        "day": 5,
+        "date": "2019-03-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 86,
+        "weekNum": 13,
+        "day": 6,
+        "date": "2019-03-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 14,
+        "weekNum": 14,
+        "day": 0,
+        "date": "2019-03-31",
+        "weekYear": 2019
+      },
+      {
+        "value": 3,
+        "weekNum": 14,
+        "day": 1,
+        "date": "2019-04-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 76,
+        "weekNum": 14,
+        "day": 2,
+        "date": "2019-04-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 14,
+        "day": 3,
+        "date": "2019-04-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 86,
+        "weekNum": 14,
+        "day": 4,
+        "date": "2019-04-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 95,
+        "weekNum": 14,
+        "day": 5,
+        "date": "2019-04-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 14,
+        "weekNum": 14,
+        "day": 6,
+        "date": "2019-04-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 28,
+        "weekNum": 15,
+        "day": 0,
+        "date": "2019-04-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 89,
+        "weekNum": 15,
+        "day": 1,
+        "date": "2019-04-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 26,
+        "weekNum": 15,
+        "day": 2,
+        "date": "2019-04-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 93,
+        "weekNum": 15,
+        "day": 3,
+        "date": "2019-04-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 41,
+        "weekNum": 15,
+        "day": 4,
+        "date": "2019-04-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 26,
+        "weekNum": 15,
+        "day": 5,
+        "date": "2019-04-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 20,
+        "weekNum": 15,
+        "day": 6,
+        "date": "2019-04-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 94,
+        "weekNum": 16,
+        "day": 0,
+        "date": "2019-04-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 30,
+        "weekNum": 16,
+        "day": 1,
+        "date": "2019-04-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 89,
+        "weekNum": 16,
+        "day": 2,
+        "date": "2019-04-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 14,
+        "weekNum": 16,
+        "day": 3,
+        "date": "2019-04-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 16,
+        "day": 4,
+        "date": "2019-04-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 16,
+        "day": 5,
+        "date": "2019-04-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 65,
+        "weekNum": 16,
+        "day": 6,
+        "date": "2019-04-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 1,
+        "weekNum": 17,
+        "day": 0,
+        "date": "2019-04-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 58,
+        "weekNum": 17,
+        "day": 1,
+        "date": "2019-04-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 85,
+        "weekNum": 17,
+        "day": 2,
+        "date": "2019-04-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 69,
+        "weekNum": 17,
+        "day": 3,
+        "date": "2019-04-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 64,
+        "weekNum": 17,
+        "day": 4,
+        "date": "2019-04-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 17,
+        "day": 5,
+        "date": "2019-04-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 3,
+        "weekNum": 17,
+        "day": 6,
+        "date": "2019-04-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 18,
+        "day": 0,
+        "date": "2019-04-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 31,
+        "weekNum": 18,
+        "day": 1,
+        "date": "2019-04-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 29,
+        "weekNum": 18,
+        "day": 2,
+        "date": "2019-04-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 57,
+        "weekNum": 18,
+        "day": 3,
+        "date": "2019-05-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 26,
+        "weekNum": 18,
+        "day": 4,
+        "date": "2019-05-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 88,
+        "weekNum": 18,
+        "day": 5,
+        "date": "2019-05-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 29,
+        "weekNum": 18,
+        "day": 6,
+        "date": "2019-05-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 73,
+        "weekNum": 19,
+        "day": 0,
+        "date": "2019-05-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 69,
+        "weekNum": 19,
+        "day": 1,
+        "date": "2019-05-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 19,
+        "day": 2,
+        "date": "2019-05-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 76,
+        "weekNum": 19,
+        "day": 3,
+        "date": "2019-05-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 19,
+        "day": 4,
+        "date": "2019-05-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 17,
+        "weekNum": 19,
+        "day": 5,
+        "date": "2019-05-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 95,
+        "weekNum": 19,
+        "day": 6,
+        "date": "2019-05-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 34,
+        "weekNum": 20,
+        "day": 0,
+        "date": "2019-05-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 20,
+        "day": 1,
+        "date": "2019-05-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 74,
+        "weekNum": 20,
+        "day": 2,
+        "date": "2019-05-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 40,
+        "weekNum": 20,
+        "day": 3,
+        "date": "2019-05-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 84,
+        "weekNum": 20,
+        "day": 4,
+        "date": "2019-05-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 42,
+        "weekNum": 20,
+        "day": 5,
+        "date": "2019-05-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 20,
+        "day": 6,
+        "date": "2019-05-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 58,
+        "weekNum": 21,
+        "day": 0,
+        "date": "2019-05-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 54,
+        "weekNum": 21,
+        "day": 1,
+        "date": "2019-05-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 95,
+        "weekNum": 21,
+        "day": 2,
+        "date": "2019-05-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 21,
+        "day": 3,
+        "date": "2019-05-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 25,
+        "weekNum": 21,
+        "day": 4,
+        "date": "2019-05-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 91,
+        "weekNum": 21,
+        "day": 5,
+        "date": "2019-05-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 21,
+        "day": 6,
+        "date": "2019-05-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 47,
+        "weekNum": 22,
+        "day": 0,
+        "date": "2019-05-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 31,
+        "weekNum": 22,
+        "day": 1,
+        "date": "2019-05-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 55,
+        "weekNum": 22,
+        "day": 2,
+        "date": "2019-05-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 22,
+        "day": 3,
+        "date": "2019-05-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 5,
+        "weekNum": 22,
+        "day": 4,
+        "date": "2019-05-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 54,
+        "weekNum": 22,
+        "day": 5,
+        "date": "2019-05-31",
+        "weekYear": 2019
+      },
+      {
+        "value": 91,
+        "weekNum": 22,
+        "day": 6,
+        "date": "2019-06-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 98,
+        "weekNum": 23,
+        "day": 0,
+        "date": "2019-06-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 90,
+        "weekNum": 23,
+        "day": 1,
+        "date": "2019-06-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 41,
+        "weekNum": 23,
+        "day": 2,
+        "date": "2019-06-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 52,
+        "weekNum": 23,
+        "day": 3,
+        "date": "2019-06-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 33,
+        "weekNum": 23,
+        "day": 4,
+        "date": "2019-06-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 39,
+        "weekNum": 23,
+        "day": 5,
+        "date": "2019-06-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 48,
+        "weekNum": 23,
+        "day": 6,
+        "date": "2019-06-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 40,
+        "weekNum": 24,
+        "day": 0,
+        "date": "2019-06-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 24,
+        "day": 1,
+        "date": "2019-06-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 87,
+        "weekNum": 24,
+        "day": 2,
+        "date": "2019-06-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 29,
+        "weekNum": 24,
+        "day": 3,
+        "date": "2019-06-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 97,
+        "weekNum": 24,
+        "day": 4,
+        "date": "2019-06-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 86,
+        "weekNum": 24,
+        "day": 5,
+        "date": "2019-06-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 29,
+        "weekNum": 24,
+        "day": 6,
+        "date": "2019-06-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 76,
+        "weekNum": 25,
+        "day": 0,
+        "date": "2019-06-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 69,
+        "weekNum": 25,
+        "day": 1,
+        "date": "2019-06-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 71,
+        "weekNum": 25,
+        "day": 2,
+        "date": "2019-06-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 68,
+        "weekNum": 25,
+        "day": 3,
+        "date": "2019-06-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 56,
+        "weekNum": 25,
+        "day": 4,
+        "date": "2019-06-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 43,
+        "weekNum": 25,
+        "day": 5,
+        "date": "2019-06-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 25,
+        "day": 6,
+        "date": "2019-06-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 3,
+        "weekNum": 26,
+        "day": 0,
+        "date": "2019-06-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 44,
+        "weekNum": 26,
+        "day": 1,
+        "date": "2019-06-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 80,
+        "weekNum": 26,
+        "day": 2,
+        "date": "2019-06-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 1,
+        "weekNum": 26,
+        "day": 3,
+        "date": "2019-06-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 26,
+        "day": 4,
+        "date": "2019-06-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 11,
+        "weekNum": 26,
+        "day": 5,
+        "date": "2019-06-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 26,
+        "day": 6,
+        "date": "2019-06-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 27,
+        "day": 0,
+        "date": "2019-06-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 6,
+        "weekNum": 27,
+        "day": 1,
+        "date": "2019-07-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 46,
+        "weekNum": 27,
+        "day": 2,
+        "date": "2019-07-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 60,
+        "weekNum": 27,
+        "day": 3,
+        "date": "2019-07-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 47,
+        "weekNum": 27,
+        "day": 4,
+        "date": "2019-07-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 27,
+        "day": 5,
+        "date": "2019-07-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 92,
+        "weekNum": 27,
+        "day": 6,
+        "date": "2019-07-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 44,
+        "weekNum": 28,
+        "day": 0,
+        "date": "2019-07-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 30,
+        "weekNum": 28,
+        "day": 1,
+        "date": "2019-07-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 87,
+        "weekNum": 28,
+        "day": 2,
+        "date": "2019-07-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 58,
+        "weekNum": 28,
+        "day": 3,
+        "date": "2019-07-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 82,
+        "weekNum": 28,
+        "day": 4,
+        "date": "2019-07-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 53,
+        "weekNum": 28,
+        "day": 5,
+        "date": "2019-07-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 34,
+        "weekNum": 28,
+        "day": 6,
+        "date": "2019-07-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 29,
+        "day": 0,
+        "date": "2019-07-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 26,
+        "weekNum": 29,
+        "day": 1,
+        "date": "2019-07-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 47,
+        "weekNum": 29,
+        "day": 2,
+        "date": "2019-07-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 30,
+        "weekNum": 29,
+        "day": 3,
+        "date": "2019-07-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 29,
+        "day": 4,
+        "date": "2019-07-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 23,
+        "weekNum": 29,
+        "day": 5,
+        "date": "2019-07-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 10,
+        "weekNum": 29,
+        "day": 6,
+        "date": "2019-07-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 30,
+        "day": 0,
+        "date": "2019-07-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 38,
+        "weekNum": 30,
+        "day": 1,
+        "date": "2019-07-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 41,
+        "weekNum": 30,
+        "day": 2,
+        "date": "2019-07-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 50,
+        "weekNum": 30,
+        "day": 3,
+        "date": "2019-07-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 69,
+        "weekNum": 30,
+        "day": 4,
+        "date": "2019-07-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 99,
+        "weekNum": 30,
+        "day": 5,
+        "date": "2019-07-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 30,
+        "day": 6,
+        "date": "2019-07-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 41,
+        "weekNum": 31,
+        "day": 0,
+        "date": "2019-07-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 3,
+        "weekNum": 31,
+        "day": 1,
+        "date": "2019-07-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 76,
+        "weekNum": 31,
+        "day": 2,
+        "date": "2019-07-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 31,
+        "day": 3,
+        "date": "2019-07-31",
+        "weekYear": 2019
+      },
+      {
+        "value": 25,
+        "weekNum": 31,
+        "day": 4,
+        "date": "2019-08-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 61,
+        "weekNum": 31,
+        "day": 5,
+        "date": "2019-08-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 78,
+        "weekNum": 31,
+        "day": 6,
+        "date": "2019-08-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 62,
+        "weekNum": 32,
+        "day": 0,
+        "date": "2019-08-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 27,
+        "weekNum": 32,
+        "day": 1,
+        "date": "2019-08-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 40,
+        "weekNum": 32,
+        "day": 2,
+        "date": "2019-08-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 80,
+        "weekNum": 32,
+        "day": 3,
+        "date": "2019-08-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 20,
+        "weekNum": 32,
+        "day": 4,
+        "date": "2019-08-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 74,
+        "weekNum": 32,
+        "day": 5,
+        "date": "2019-08-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 32,
+        "day": 6,
+        "date": "2019-08-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 55,
+        "weekNum": 33,
+        "day": 0,
+        "date": "2019-08-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 33,
+        "day": 1,
+        "date": "2019-08-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 75,
+        "weekNum": 33,
+        "day": 2,
+        "date": "2019-08-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 33,
+        "day": 3,
+        "date": "2019-08-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 89,
+        "weekNum": 33,
+        "day": 4,
+        "date": "2019-08-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 58,
+        "weekNum": 33,
+        "day": 5,
+        "date": "2019-08-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 66,
+        "weekNum": 33,
+        "day": 6,
+        "date": "2019-08-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 98,
+        "weekNum": 34,
+        "day": 0,
+        "date": "2019-08-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 11,
+        "weekNum": 34,
+        "day": 1,
+        "date": "2019-08-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 79,
+        "weekNum": 34,
+        "day": 2,
+        "date": "2019-08-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 71,
+        "weekNum": 34,
+        "day": 3,
+        "date": "2019-08-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 34,
+        "day": 4,
+        "date": "2019-08-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 75,
+        "weekNum": 34,
+        "day": 5,
+        "date": "2019-08-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 89,
+        "weekNum": 34,
+        "day": 6,
+        "date": "2019-08-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 46,
+        "weekNum": 35,
+        "day": 0,
+        "date": "2019-08-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 31,
+        "weekNum": 35,
+        "day": 1,
+        "date": "2019-08-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 3,
+        "weekNum": 35,
+        "day": 2,
+        "date": "2019-08-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 39,
+        "weekNum": 35,
+        "day": 3,
+        "date": "2019-08-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 51,
+        "weekNum": 35,
+        "day": 4,
+        "date": "2019-08-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 60,
+        "weekNum": 35,
+        "day": 5,
+        "date": "2019-08-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 71,
+        "weekNum": 35,
+        "day": 6,
+        "date": "2019-08-31",
+        "weekYear": 2019
+      },
+      {
+        "value": 27,
+        "weekNum": 36,
+        "day": 0,
+        "date": "2019-09-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 78,
+        "weekNum": 36,
+        "day": 1,
+        "date": "2019-09-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 36,
+        "day": 2,
+        "date": "2019-09-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 1,
+        "weekNum": 36,
+        "day": 3,
+        "date": "2019-09-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 55,
+        "weekNum": 36,
+        "day": 4,
+        "date": "2019-09-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 36,
+        "day": 5,
+        "date": "2019-09-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 94,
+        "weekNum": 36,
+        "day": 6,
+        "date": "2019-09-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 28,
+        "weekNum": 37,
+        "day": 0,
+        "date": "2019-09-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 15,
+        "weekNum": 37,
+        "day": 1,
+        "date": "2019-09-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 36,
+        "weekNum": 37,
+        "day": 2,
+        "date": "2019-09-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 37,
+        "day": 3,
+        "date": "2019-09-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 5,
+        "weekNum": 37,
+        "day": 4,
+        "date": "2019-09-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 38,
+        "weekNum": 37,
+        "day": 5,
+        "date": "2019-09-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 37,
+        "day": 6,
+        "date": "2019-09-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 64,
+        "weekNum": 38,
+        "day": 0,
+        "date": "2019-09-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 38,
+        "day": 1,
+        "date": "2019-09-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 37,
+        "weekNum": 38,
+        "day": 2,
+        "date": "2019-09-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 87,
+        "weekNum": 38,
+        "day": 3,
+        "date": "2019-09-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 57,
+        "weekNum": 38,
+        "day": 4,
+        "date": "2019-09-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 82,
+        "weekNum": 38,
+        "day": 5,
+        "date": "2019-09-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 49,
+        "weekNum": 38,
+        "day": 6,
+        "date": "2019-09-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 44,
+        "weekNum": 39,
+        "day": 0,
+        "date": "2019-09-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 33,
+        "weekNum": 39,
+        "day": 1,
+        "date": "2019-09-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 39,
+        "day": 2,
+        "date": "2019-09-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 39,
+        "day": 3,
+        "date": "2019-09-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 39,
+        "day": 4,
+        "date": "2019-09-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 54,
+        "weekNum": 39,
+        "day": 5,
+        "date": "2019-09-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 39,
+        "day": 6,
+        "date": "2019-09-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 97,
+        "weekNum": 40,
+        "day": 0,
+        "date": "2019-09-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 53,
+        "weekNum": 40,
+        "day": 1,
+        "date": "2019-09-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 23,
+        "weekNum": 40,
+        "day": 2,
+        "date": "2019-10-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 0,
+        "weekNum": 40,
+        "day": 3,
+        "date": "2019-10-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 21,
+        "weekNum": 40,
+        "day": 4,
+        "date": "2019-10-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 28,
+        "weekNum": 40,
+        "day": 5,
+        "date": "2019-10-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 9,
+        "weekNum": 40,
+        "day": 6,
+        "date": "2019-10-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 11,
+        "weekNum": 41,
+        "day": 0,
+        "date": "2019-10-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 92,
+        "weekNum": 41,
+        "day": 1,
+        "date": "2019-10-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 41,
+        "day": 2,
+        "date": "2019-10-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 19,
+        "weekNum": 41,
+        "day": 3,
+        "date": "2019-10-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 18,
+        "weekNum": 41,
+        "day": 4,
+        "date": "2019-10-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 36,
+        "weekNum": 41,
+        "day": 5,
+        "date": "2019-10-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 55,
+        "weekNum": 41,
+        "day": 6,
+        "date": "2019-10-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 43,
+        "weekNum": 42,
+        "day": 0,
+        "date": "2019-10-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 66,
+        "weekNum": 42,
+        "day": 1,
+        "date": "2019-10-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 42,
+        "day": 2,
+        "date": "2019-10-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 72,
+        "weekNum": 42,
+        "day": 3,
+        "date": "2019-10-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 34,
+        "weekNum": 42,
+        "day": 4,
+        "date": "2019-10-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 48,
+        "weekNum": 42,
+        "day": 5,
+        "date": "2019-10-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 76,
+        "weekNum": 42,
+        "day": 6,
+        "date": "2019-10-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 96,
+        "weekNum": 43,
+        "day": 0,
+        "date": "2019-10-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 89,
+        "weekNum": 43,
+        "day": 1,
+        "date": "2019-10-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 30,
+        "weekNum": 43,
+        "day": 2,
+        "date": "2019-10-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 17,
+        "weekNum": 43,
+        "day": 3,
+        "date": "2019-10-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 88,
+        "weekNum": 43,
+        "day": 4,
+        "date": "2019-10-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 7,
+        "weekNum": 43,
+        "day": 5,
+        "date": "2019-10-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 92,
+        "weekNum": 43,
+        "day": 6,
+        "date": "2019-10-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 4,
+        "weekNum": 44,
+        "day": 0,
+        "date": "2019-10-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 52,
+        "weekNum": 44,
+        "day": 1,
+        "date": "2019-10-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 9,
+        "weekNum": 44,
+        "day": 2,
+        "date": "2019-10-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 32,
+        "weekNum": 44,
+        "day": 3,
+        "date": "2019-10-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 49,
+        "weekNum": 44,
+        "day": 4,
+        "date": "2019-10-31",
+        "weekYear": 2019
+      },
+      {
+        "value": 90,
+        "weekNum": 44,
+        "day": 5,
+        "date": "2019-11-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 8,
+        "weekNum": 44,
+        "day": 6,
+        "date": "2019-11-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 63,
+        "weekNum": 45,
+        "day": 0,
+        "date": "2019-11-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 6,
+        "weekNum": 45,
+        "day": 1,
+        "date": "2019-11-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 36,
+        "weekNum": 45,
+        "day": 2,
+        "date": "2019-11-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 45,
+        "day": 3,
+        "date": "2019-11-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 11,
+        "weekNum": 45,
+        "day": 4,
+        "date": "2019-11-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 56,
+        "weekNum": 45,
+        "day": 5,
+        "date": "2019-11-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 28,
+        "weekNum": 45,
+        "day": 6,
+        "date": "2019-11-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 2,
+        "weekNum": 46,
+        "day": 0,
+        "date": "2019-11-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 42,
+        "weekNum": 46,
+        "day": 1,
+        "date": "2019-11-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 29,
+        "weekNum": 46,
+        "day": 2,
+        "date": "2019-11-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 54,
+        "weekNum": 46,
+        "day": 3,
+        "date": "2019-11-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 80,
+        "weekNum": 46,
+        "day": 4,
+        "date": "2019-11-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 59,
+        "weekNum": 46,
+        "day": 5,
+        "date": "2019-11-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 94,
+        "weekNum": 46,
+        "day": 6,
+        "date": "2019-11-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 59,
+        "weekNum": 47,
+        "day": 0,
+        "date": "2019-11-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 47,
+        "day": 1,
+        "date": "2019-11-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 71,
+        "weekNum": 47,
+        "day": 2,
+        "date": "2019-11-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 52,
+        "weekNum": 47,
+        "day": 3,
+        "date": "2019-11-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 47,
+        "day": 4,
+        "date": "2019-11-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 32,
+        "weekNum": 47,
+        "day": 5,
+        "date": "2019-11-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 60,
+        "weekNum": 47,
+        "day": 6,
+        "date": "2019-11-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 49,
+        "weekNum": 48,
+        "day": 0,
+        "date": "2019-11-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 95,
+        "weekNum": 48,
+        "day": 1,
+        "date": "2019-11-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 52,
+        "weekNum": 48,
+        "day": 2,
+        "date": "2019-11-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 15,
+        "weekNum": 48,
+        "day": 3,
+        "date": "2019-11-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 83,
+        "weekNum": 48,
+        "day": 4,
+        "date": "2019-11-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 95,
+        "weekNum": 48,
+        "day": 5,
+        "date": "2019-11-29",
+        "weekYear": 2019
+      },
+      {
+        "value": 57,
+        "weekNum": 48,
+        "day": 6,
+        "date": "2019-11-30",
+        "weekYear": 2019
+      },
+      {
+        "value": 56,
+        "weekNum": 49,
+        "day": 0,
+        "date": "2019-12-01",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 49,
+        "day": 1,
+        "date": "2019-12-02",
+        "weekYear": 2019
+      },
+      {
+        "value": 36,
+        "weekNum": 49,
+        "day": 2,
+        "date": "2019-12-03",
+        "weekYear": 2019
+      },
+      {
+        "value": 91,
+        "weekNum": 49,
+        "day": 3,
+        "date": "2019-12-04",
+        "weekYear": 2019
+      },
+      {
+        "value": 91,
+        "weekNum": 49,
+        "day": 4,
+        "date": "2019-12-05",
+        "weekYear": 2019
+      },
+      {
+        "value": 22,
+        "weekNum": 49,
+        "day": 5,
+        "date": "2019-12-06",
+        "weekYear": 2019
+      },
+      {
+        "value": 58,
+        "weekNum": 49,
+        "day": 6,
+        "date": "2019-12-07",
+        "weekYear": 2019
+      },
+      {
+        "value": 55,
+        "weekNum": 50,
+        "day": 0,
+        "date": "2019-12-08",
+        "weekYear": 2019
+      },
+      {
+        "value": 23,
+        "weekNum": 50,
+        "day": 1,
+        "date": "2019-12-09",
+        "weekYear": 2019
+      },
+      {
+        "value": 45,
+        "weekNum": 50,
+        "day": 2,
+        "date": "2019-12-10",
+        "weekYear": 2019
+      },
+      {
+        "value": 100,
+        "weekNum": 50,
+        "day": 3,
+        "date": "2019-12-11",
+        "weekYear": 2019
+      },
+      {
+        "value": 71,
+        "weekNum": 50,
+        "day": 4,
+        "date": "2019-12-12",
+        "weekYear": 2019
+      },
+      {
+        "value": 7,
+        "weekNum": 50,
+        "day": 5,
+        "date": "2019-12-13",
+        "weekYear": 2019
+      },
+      {
+        "value": 48,
+        "weekNum": 50,
+        "day": 6,
+        "date": "2019-12-14",
+        "weekYear": 2019
+      },
+      {
+        "value": 86,
+        "weekNum": 51,
+        "day": 0,
+        "date": "2019-12-15",
+        "weekYear": 2019
+      },
+      {
+        "value": 35,
+        "weekNum": 51,
+        "day": 1,
+        "date": "2019-12-16",
+        "weekYear": 2019
+      },
+      {
+        "value": 35,
+        "weekNum": 51,
+        "day": 2,
+        "date": "2019-12-17",
+        "weekYear": 2019
+      },
+      {
+        "value": 12,
+        "weekNum": 51,
+        "day": 3,
+        "date": "2019-12-18",
+        "weekYear": 2019
+      },
+      {
+        "value": 35,
+        "weekNum": 51,
+        "day": 4,
+        "date": "2019-12-19",
+        "weekYear": 2019
+      },
+      {
+        "value": 97,
+        "weekNum": 51,
+        "day": 5,
+        "date": "2019-12-20",
+        "weekYear": 2019
+      },
+      {
+        "value": 95,
+        "weekNum": 51,
+        "day": 6,
+        "date": "2019-12-21",
+        "weekYear": 2019
+      },
+      {
+        "value": 84,
+        "weekNum": 52,
+        "day": 0,
+        "date": "2019-12-22",
+        "weekYear": 2019
+      },
+      {
+        "value": 92,
+        "weekNum": 52,
+        "day": 1,
+        "date": "2019-12-23",
+        "weekYear": 2019
+      },
+      {
+        "value": 32,
+        "weekNum": 52,
+        "day": 2,
+        "date": "2019-12-24",
+        "weekYear": 2019
+      },
+      {
+        "value": 71,
+        "weekNum": 52,
+        "day": 3,
+        "date": "2019-12-25",
+        "weekYear": 2019
+      },
+      {
+        "value": 77,
+        "weekNum": 52,
+        "day": 4,
+        "date": "2019-12-26",
+        "weekYear": 2019
+      },
+      {
+        "value": 15,
+        "weekNum": 52,
+        "day": 5,
+        "date": "2019-12-27",
+        "weekYear": 2019
+      },
+      {
+        "value": 27,
+        "weekNum": 52,
+        "day": 6,
+        "date": "2019-12-28",
+        "weekYear": 2019
+      },
+      {
+        "value": 42,
+        "weekNum": 53,
+        "day": 0,
+        "date": "2019-12-29",
+        "weekYear": 2020
+      },
+      {
+        "value": 52,
+        "weekNum": 53,
+        "day": 1,
+        "date": "2019-12-30",
+        "weekYear": 2020
+      },
+      {
+        "value": 91,
+        "weekNum": 53,
+        "day": 2,
+        "date": "2019-12-31",
+        "weekYear": 2020
+      }
+    ]
 }
 

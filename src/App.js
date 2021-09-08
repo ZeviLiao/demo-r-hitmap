@@ -15,7 +15,8 @@ function App() {
     if (!input.length) return;
     setIsLoading(true);
     axios
-      .get(`https://github-contributions-api.now.sh/v1/${input}`)
+      // .get(`https://github-contributions-api.now.sh/v1/${input}`)
+      .get(`http://localhost:3000/data.json`)
       .then((res) => {
         setIsLoading(false);
         setData(res.data);
